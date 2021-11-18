@@ -3,4 +3,5 @@ this is my personal deep learning library for understanding deeplearning
 
 This is my personal deeplearning Library which I made to understand how deeplearning frame work modules are organised to better understand them.
 
-### Layer:
+### Layer: 
+This module is the base class for dense and it signifies that 
