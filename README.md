@@ -5,4 +5,6 @@ This is my personal deeplearning Library which I made to understand how deeplear
 
 ### Layer: 
 This module is the base class for dense and it signifies that it has the functionality to have forward and backward pass.
+### Dense:
+This module inherits Layer class and implimets 
 
